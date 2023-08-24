@@ -4,7 +4,7 @@
  *
  * Date: 2023/08/24
  *
- * A simple hello world program in C
+ * A simple name-and-major-displaying program in C
  *
  */
 #include <stdlib.h>
@@ -12,7 +12,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("Immanuel Soh\n");
+  printf("Immanuel Soh!\n");
+
+  printf("Computer Science\n");
 
   return 0;
 }
